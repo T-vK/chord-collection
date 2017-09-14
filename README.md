@@ -21,3 +21,5 @@ chords: {
 ```
 
 For a usage example please refer to my [Chord-Draw](https://github.com/t-vk/Chord-Draw.git) project.
+
+Most chords be in this library. I'm currently missing slash chords. But I'm making a plan on how to generate them, to add them too.
