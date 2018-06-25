@@ -25,3 +25,6 @@ For a usage example please refer to my [Chord-Draw](https://github.com/t-vk/Chor
 Most chords should be in this library. It's currently still missing slash chords. But I'm making a plan on how to generate them, to add them too. I might have to do it manually though. 
 
 This chord library has been created with the help of chordsdatabase.com. Which is a really awesome website! You should defintiely check it out and consider [donating to them(http://www.chordsdatabase.com/donate)!
+
+## License
+The source is licensed under the GPL.
