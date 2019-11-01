@@ -1,7 +1,7 @@
-The chords are stored in a format like this:
+The chords are stored in the following JSON format:
 
 ```
-chords: {
+{
     "C#":[{
         "positions": ["x","4","6","6","6","4"],
         "fingerings": [["0","1","3","3","3","1"], ["0","1","2","3","4","1"]]
@@ -22,9 +22,10 @@ chords: {
 
 For a usage example please refer to my [Chord-Draw](https://github.com/t-vk/Chord-Draw.git) project.
 
-Most chords should be in this library. It's currently still missing slash chords. But I'm making a plan on how to generate them, to add them too. I might have to do it manually though. 
+If you want a complete list of all chords with all it's shapes, then go ahead and use `chords.complete.json` (~ 13.5MB !!!) or `chords.complete.js` (~ 13.5MB !!!).  
+If you want a list of all chords and one shape per chord is enough for you, then you should use `chords.json` (~ 1.2MB !) or `chords.js` (~ 1.2MB !).
 
-This chord library has been created with the help of chordsdatabase.com. Which is a really awesome website! You should defintiely check it out and consider [donating to them(http://www.chordsdatabase.com/donate)!
+This chord library has been created with the help of jguitar.com. Which is a really awesome website that goes far beyond what this project could offer. You should defintiely check it out and consider supporting them!
 
 ## License
 The source is licensed under the GPL.
